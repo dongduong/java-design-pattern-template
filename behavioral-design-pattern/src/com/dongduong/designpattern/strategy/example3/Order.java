@@ -1,4 +1,4 @@
-package com.dongduong.designpattern.strategy.example1;
+package com.dongduong.designpattern.strategy.example3;
 
 public class Order {
     private int totalCost = 0;
