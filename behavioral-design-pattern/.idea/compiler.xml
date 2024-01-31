@@ -9,8 +9,5 @@
         <module name="behavioral-design-pattern" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="behavioral-design-pattern" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

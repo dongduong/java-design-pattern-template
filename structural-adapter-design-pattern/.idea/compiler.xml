@@ -9,8 +9,5 @@
         <module name="structural-adapter-design-pattern" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="structural-adapter-design-pattern" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

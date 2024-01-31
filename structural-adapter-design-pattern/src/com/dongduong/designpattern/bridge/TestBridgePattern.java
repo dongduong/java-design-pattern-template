@@ -1,4 +1,4 @@
-/*The Bridge Pattern’s intent is to decouple an abstraction from its implementation so that the two can vary independently. 
+/*The Bridge Patterns intent is to decouple an abstraction from its implementation so that the two can vary independently.
 It puts the abstraction and implementation into two different class hierarchies so that both can be extend independently.*/
 
 package com.dongduong.designpattern.bridge;
