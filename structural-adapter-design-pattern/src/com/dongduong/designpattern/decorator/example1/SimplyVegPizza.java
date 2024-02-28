@@ -1,4 +1,4 @@
-package com.dongduong.designpattern.decorator;
+package com.dongduong.designpattern.decorator.example1;
 
 public class SimplyVegPizza implements Pizza {
 

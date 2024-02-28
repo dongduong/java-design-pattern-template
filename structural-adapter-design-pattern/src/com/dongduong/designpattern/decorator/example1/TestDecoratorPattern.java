@@ -3,7 +3,7 @@
  *  The pattern is used to extend the functionality of an object dynamically without having to change the original class source or using 
  *  inheritance. This is accomplished by creating an object wrapper referred to as a Decorator around the actual object.*/
 
-package com.dongduong.designpattern.decorator;
+package com.dongduong.designpattern.decorator.example1;
 
 import java.text.DecimalFormat;
 
